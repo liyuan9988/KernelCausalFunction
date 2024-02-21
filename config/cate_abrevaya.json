@@ -1,0 +1,12 @@
+{
+  "n_repeat": 20,
+  "data": {
+    "name": "synthetic",
+    "data_size": [500, 1000, 5000]
+  },
+  "model": {
+    "name": "abrevaya",
+    "propensity_bandwidth_scale": 0.5,
+    "cate_bandwidth_scale": 0.2
+  }
+}

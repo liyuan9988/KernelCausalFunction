@@ -1,0 +1,4 @@
+data.lock
+dumps
+logs
+*.pyc

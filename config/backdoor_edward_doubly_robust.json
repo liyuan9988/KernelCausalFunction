@@ -1,0 +1,17 @@
+{
+  "n_repeat": 1,
+  "data": {
+    "name": "colangelo",
+    "data_size": 5000
+  },
+  "model": {
+    "name": "edward_doubly_robust",
+    "mdl_name": "RF",
+    "mdl_param": {
+      "n_estimators": 1000,
+      "min_samples_leaf": 40
+    },
+    "smoother_bandwidth": 0.08,
+    "sigma": 0.75
+  }
+}

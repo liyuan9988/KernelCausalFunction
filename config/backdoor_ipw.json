@@ -1,0 +1,17 @@
+{
+  "n_repeat": 1,
+  "data": {
+    "name": "colangelo",
+    "data_size": 5000
+  },
+  "model": {
+    "name": "IPW",
+    "mdl_name": "RF",
+    "mdl_param": {
+      "n_estimators": 1000,
+      "min_samples_leaf": 40
+    },
+    "smoother_bandwidth": 0.02,
+    "density_bandwidth": 0.025
+  }
+}
