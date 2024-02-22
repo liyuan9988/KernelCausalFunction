@@ -1,6 +1,6 @@
 # KernelCausalFunction 
 
-Code for ["Kernel Methods for Causal Functions: Dose, Heterogeneous, and Incremental Response Curves"](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asad042/7219715?redirectedFrom=fulltext) (Biometrica2023) 
+Code for ["Kernel Methods for Causal Functions: Dose, Heterogeneous, and Incremental Response Curves"](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asad042/7219715?redirectedFrom=fulltext) (Biometrika2023) 
 
 
 ## How to run

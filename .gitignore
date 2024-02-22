@@ -2,3 +2,4 @@ data.lock
 dumps
 logs
 *.pyc
+.idea
