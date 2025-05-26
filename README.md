@@ -27,3 +27,7 @@ python main.py configs/<config_name>.json <command_name>
 ```
 
 4. The result will be found in the `dumps` folder.
+
+## Preprocessing JobCorp data in multi-stage treatment effect
+
+Please refer to README under `preprocess`
